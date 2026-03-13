@@ -1,4 +1,4 @@
-A command-line expense tracking app built with Python and Pandas.
+A command-line expense tracking app built with Python and Pandas and Matplotlib.
 
 ## Features
 - Add and save expenses to CSV
